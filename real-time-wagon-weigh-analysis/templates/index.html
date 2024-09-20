@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IoT Sensor Data</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 50px;
+        }
+        .data-container {
+            margin: 20px;
+        }
+        .data-field {
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Sensor Data</h1>
+    <div class="data-container">
+        <div class="data-field">Latitude: <span id="latitude">0.00</span></div>
+        <div class="data-field">Longitude: <span id="longitude">0.00</span></div>
+        <div class="data-field">Weight: <span id="weight">0.00</span></div>
+    </div>
+    <button onclick="getSensorData()">Get Sensor Data</button>
+
+    <script>
+        async function getSensorData() {
+            const response = await fetch('/get_data');
+            const data = await response.json();
+            document.getElementById('latitude').textContent = data.latitude;
+            document.getElementById('longitude').textContent = data.longitude;
+            document.getElementById('weight').textContent = data.weight;
+        }
+    </script>
+</body>
+</html>

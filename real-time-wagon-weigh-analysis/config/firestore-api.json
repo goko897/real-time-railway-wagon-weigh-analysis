@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "railwaywagonweigh",
+    "private_key_id": "6a31e43db55178fe50c29ce26a272eb1ee396b01",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDJCJTPooS53CEd\npcrC1a/Cy9ANVnmm4qYfFq9ZYISsOrm9b7Gx9JYmml0GHn7bgZMAyHyqOhzMVP0y\ntV1vgdIIfXkv6upVdMu3fgwR02NHJ6bQ2Ee4YU6HZQIGVICN18w2274mfrnuy8Pl\ndiS1zAZST5oh4yraDpBS61xBvgra1ppLrGEXp5ECfUJTbv48yx2T31ZcphwYkU1f\nD7JmXBVN6FzbWehhDHrZzRfthQFmpZiRazb3RbhDOVqczcCYnqOzgpjyBVAT0MGA\nJrFc163ZU3FVo91DVGeCrN+qQQYQMFp+Q+Aq+gu3vGpguwv3Adj/XsrepcuoqM+K\n+UUC6acPAgMBAAECggEAYeG9Pwm00R/2uc4/FrVfkhuVbeEUc2a4lrt/XieqAYfI\nZw2quehKcXpIX9HaV3tT/ZYgaOvJmM2qyJVY7JGLl9mr92JMfZZUGEAVlVpU5NDQ\nHrCn3wT17OOH5Fghja6sPmuovmqGklgBRkjLX/76dvpOJEDM3QYpTE5Pia0D8P+d\n7VKaE09mVFj8w0jZTabpaJkukukLUTlyGAVYkuI5kNmYdyhK9fFzI/A4iv1NcC/I\nB15arS+gBl3SP3R2Mq/MzdgFwHmBh+mFU9Z8JBXDqCSIF+6wVwYg/HhTmRSr8yR3\nWjbaQFOL3tI8k8yg8fW84GJp4+byOV+Z9AkrPLViOQKBgQD0tfcRziz/4+SzNrFU\nRGwN6QOBD31ztTbEOj9AckDxIOEXaSp4eGToz5KB8O+ZHE13ipzRiqtQ4YnH+g7j\nx5RdktBN8E7lJLqUNWqQMNPXWooYvM3LSfw1s7WA/atNdftPaNIHx31S8tGZTafs\nkgeifk+8+iOuWmAIPiiRFaBghwKBgQDSTsmVeGAnsgSxJHAQU+JphX4I2LBAXR82\noXaXGtI1G2/2/4bnUAcTbkfqbYMh3QJgc+hglxnVpDgfP0dQs/990/4v1n8MkE5g\nwS3qYWL+OGjzmorzmz4c2z4UzU6m4LMA6d8w12J0MkL6lWfYIt50qbco1IxmB2a2\naksrx2HPOQKBgCAW5IlPMhN0PP9LQsG8HzdLwQvhjh/oOYBN6xF2ahG0sA+z2L/n\necQVxC6J+8FmNrpgUOQhfQmkKb8xiVZRS6FhqTMvOglOYbEhuBGkdYMd+lH4IDxy\nPUKFiF2b5iTIPeZR5ojingqMkPO7fTPGin3Cdo5fduJcM4+hJwyve1JtAoGAB3bQ\nZMOu9fm1fOwEJjAz+vbH8FxwdPhZIUE9ykMjbssYgDW1fgQzHBdv6fwVCWCksvOq\nLbNvMUvwyfse9thMmxSpEt2UCMgeYAS7MnReZRNvdiXoBJlf7PpDC831mqqi78dd\nKoiab/FQu0AOPXePWaikXYidqwlcNeEz5cvfxtECgYBcUBqnO3NVmAUZ/5wqJYYi\nbiB508uvFt8qeUXHjUW8V2td89rQsiMWrGpM4sdtuiAA/3WkzEfa2j5vjFdnfw/F\nmGuodFzZiTRMVgdBiT19Cpq0VVzNj/JeOUmKILEL4nOQM0fPL5VBTgSsp5gFgdnj\nLwmQJlAYjEL5f0UID6HHVQ==\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-3tmov@railwaywagonweigh.iam.gserviceaccount.com",
+    "client_id": "107328307477082992274",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-3tmov%40railwaywagonweigh.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+  
