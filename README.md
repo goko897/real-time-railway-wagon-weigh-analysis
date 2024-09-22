@@ -11,7 +11,7 @@ The real-time data is displayed on a user-friendly dashboard and securely stored
 
 With robust security features and real-time analytics, this system provides an innovative solution for efficient freight management in rail transport.
 
-# Setting Up the Virtual Environment to start application
+# Setting Up the Virtual Environment to start application (Windows only)
 Follow these steps to create and activate a virtual environment using **virtualenv**.
 
 # 1. Change terminal to working directory
